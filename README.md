@@ -1,4 +1,4 @@
-# Galactic-Showdown
+# Galactic-Showdown.
 Nostalgic Java Game Inspired by the Iconic Space Invaders, where you take on the role of a space pilot defending Earth from relentless alien invaders
 
 **Code Structure**

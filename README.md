@@ -1,5 +1,5 @@
 # Galactic-Showdown.
-Nostalgic Java Game Inspired by the Iconic Space Invaders, where you take on the role of a space pilot defending Earth from relentless alien invaders
+Nostalgic Java Game Inspired by the Iconic Space Invaders, where you take on the role of a space pilot defending Earth from relentless alien invaders.
 
 **Code Structure**
 The Space Invaders game project consists of several components and modules that work together to create the game experience. Here's an overview of the main files and their roles:
